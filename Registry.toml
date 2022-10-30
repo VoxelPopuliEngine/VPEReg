@@ -1,0 +1,6 @@
+name = "VPEReg"
+uuid = "47e5c925-5c02-4bfc-b219-526c43ce37a2"
+repo = "https://github.com/VoxelPopuliEngine/VPEReg.git"
+description = "Complementary Julia registry for VPE libraries to accelerate development"
+
+[packages]

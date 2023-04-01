@@ -4,5 +4,6 @@ repo = "https://github.com/VoxelPopuliEngine/VPEReg.git"
 description = "Complementary Julia registry for VPE libraries to accelerate development"
 
 [packages]
+4aaedbac-569a-4ece-bda1-8be3b981b3e2 = { name = "KirUtils", path = "K/KirUtils" }
 715ac8d3-df97-4447-9c1f-a6ca368da29f = { name = "ModernGLAbstraction", path = "M/ModernGLAbstraction" }
 b4519675-ec9c-4dd5-a759-fbb42bea0e46 = { name = "GLFWAbstraction", path = "G/GLFWAbstraction" }

@@ -7,4 +7,5 @@ description = "Complementary Julia registry for VPE libraries to accelerate deve
 4aaedbac-569a-4ece-bda1-8be3b981b3e2 = { name = "KirUtils", path = "K/KirUtils" }
 5bb1f5ca-697a-4fde-89ee-72199e5306be = { name = "Redditio", path = "R/Redditio" }
 715ac8d3-df97-4447-9c1f-a6ca368da29f = { name = "ModernGLAbstraction", path = "M/ModernGLAbstraction" }
+89a0ab52-e262-41e6-ba80-c0446e79467f = { name = "VulkanAbstraction", path = "V/VulkanAbstraction" }
 b4519675-ec9c-4dd5-a759-fbb42bea0e46 = { name = "GLFWAbstraction", path = "G/GLFWAbstraction" }

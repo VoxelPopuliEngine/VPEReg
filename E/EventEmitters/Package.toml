@@ -1,3 +1,3 @@
 name = "EventEmitters"
 uuid = "cd26c9f8-45a4-41bb-95ac-b558150e631b"
-repo = "git@github.com:Kiruse/EventEmitters.jl"
+repo = "https://github.com/Kiruse/EventEmitters.jl"

@@ -9,3 +9,4 @@ description = "Complementary Julia registry for VPE libraries to accelerate deve
 715ac8d3-df97-4447-9c1f-a6ca368da29f = { name = "ModernGLAbstraction", path = "M/ModernGLAbstraction" }
 89a0ab52-e262-41e6-ba80-c0446e79467f = { name = "VulkanAbstraction", path = "V/VulkanAbstraction" }
 b4519675-ec9c-4dd5-a759-fbb42bea0e46 = { name = "GLFWAbstraction", path = "G/GLFWAbstraction" }
+cd26c9f8-45a4-41bb-95ac-b558150e631b = { name = "EventEmitters", path = "E/EventEmitters" }
